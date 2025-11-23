@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\web-launcher-c#\src\obj\Debug\net6.0-windows\Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\web-launcher-c#\src\obj\Debug\net6.0-windows\Launcher.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\web-launcher-c#\src\obj\Debug\net6.0-windows\Launcher.AssemblyInfo.cs
+C:\Users\User\Desktop\web-launcher-c#\src\obj\Debug\net6.0-windows\Launcher.csproj.CoreCompileInputs.cache
